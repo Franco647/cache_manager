@@ -1,0 +1,4 @@
+1 0 Franco T. 22
+2 4 Lionel Messi. 8
+3 2 Nadia M. 17
+4 4 Angel DiMaria. 8
